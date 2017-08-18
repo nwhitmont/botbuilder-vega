@@ -38,3 +38,6 @@ bot.dialog('/', function (session) {
     sendVega(session, "US County Unemployment Map", countyUnemploymentMap); 
 });
 ```
+
+**Example Output**
+![example output](https://raw.githubusercontent.com/nwhitmont/botbuilder-vega/master/examples/example-chart-output.png)
