@@ -1,6 +1,6 @@
 var builder = require('botbuilder');
 var restify = require('restify');
-var sendVega = require('../lib/botbuilder-vega').sendVega;
+var sendVega = require('../lib/botbuilder-vega');
 
 var countyUnemploymentMap = require('./charts/county-unemployment.vg.json');
 
