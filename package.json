@@ -1,0 +1,25 @@
+{
+  "name": "botbuilder-vega",
+  "version": "1.0.0",
+  "author": "Nils Whitmont",
+  "license": "MIT",
+  "description": "Send Vega charts rendered to PNG in your Bot Framework bot's messages",
+  "main": "./lib/botbuilder-vega.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwhitmont/botbuilder-vega.git"
+  },
+  "keywords": [
+    "botbuilder",
+    "botframework",
+    "vega"
+  ],
+  "bugs": {
+    "url": "https://github.com/nwhitmont/botbuilder-vega/issues"
+  },
+  "homepage": "https://github.com/nwhitmont/botbuilder-vega#readme",
+  "dependencies": {
+    "botbuilder": "^3.9.0",
+    "vega": "^3.0.2"
+  }
+}
