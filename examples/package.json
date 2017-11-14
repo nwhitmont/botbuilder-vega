@@ -1,0 +1,33 @@
+{
+  "name": "botbuilder-vega-examples",
+  "version": "1.0.0",
+  "description": "Example usage for package botbuilder-vega",
+  "main": "vega-bot-example.js",
+  "scripts": {
+    "start": "node vega-bot-example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nwhitmont/botbuilder-vega.git"
+  },
+  "keywords": [
+    "botbuilder",
+    "botframework",
+    "vega",
+    "charts",
+    "bot",
+    "chatbot"
+  ],
+  "author": "Nils Whitmont",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nwhitmont/botbuilder-vega/issues"
+  },
+  "homepage": "https://github.com/nwhitmont/botbuilder-vega#readme",
+  "dependencies": {
+    "botbuilder": "^3.11.0",
+    "botbuilder-vega": "^1.0.0",
+    "restify": "^6.3.2",
+    "vega": "^3.0.7"
+  }
+}
